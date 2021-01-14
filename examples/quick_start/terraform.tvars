@@ -1,0 +1,21 @@
+# OCI Authentication details
+tenancy_ocid = "ocid1.tenancy.oc1..aaaaaaaacg2kx2vh5y62jvq7bqpgmt7komml6rshkw4hlidt5y2su5gacyja"
+user_ocid = "ocid1.user.oc1..aaaaaaaak35yqjnbo3jb6vqfjspklkcbgyzkogxmnwue2vld7peaah6usmiq"
+fingerprint= "33:95:60:b2:3a:87:5f:cd:40:12:f5:d9:1f:c9:22:16"
+private_key_path = "~/.oci/oci_api_key_no_pass.pem"
+
+# Region
+region = "us-ashburn-1"
+
+# Compartment
+compartment_ocid = "ocid1.compartment.oc1..aaaaaaaanqr5r27om54kiogbzpsygihzrf47rmwiztcflim24en5cihwdpgq"
+
+#Instance Configration
+ssh_authorized_keys = "~/.ssh/id_rsa_no_pass.pub"
+ssh_private_key = "~/.ssh/id_rsa_no_pass"
+bastion_authorized_keys = "~/.ssh/id_rsa_no_pass.pub"
+bastion_private_key = "~/.ssh/id_rsa_no_pass"
+jenkins_password = "Blackberry#99"
+subnet_ids = 1
+master_subnet_id = "ocid1.subnet.oc1.iad.aaaaaaaaymvg4gn5lod4n4honptvqzty4arc2xxatlnefegaj2zt5j4lpjgq"
+slave_subnet_ids = "ocid1.subnet.oc1.iad.aaaaaaaaymvg4gn5lod4n4honptvqzty4arc2xxatlnefegaj2zt5j4lpjgq"
