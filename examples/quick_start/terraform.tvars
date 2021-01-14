@@ -8,7 +8,7 @@ private_key_path = "~/.oci/oci_api_key_no_pass.pem"
 region = "us-ashburn-1"
 
 # Compartment
-compartment_ocid = "ocid1.compartment.oc1..aaaaaaaanqr5r27om54kiogbzpsygihzrf47rmwiztcflim24en5cihwdpgq"
+compartment_ocid = "ocid1.compartment.oc1..aaaaaaaaxawj3kl63gqf3unbfdhyxsrgx5kve562sdundshdb2np6k5lsu5a"
 
 #Instance Configration
 ssh_authorized_keys = "~/.ssh/id_rsa_no_pass.pub"
